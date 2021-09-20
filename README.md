@@ -1,1 +1,1 @@
-# libtrace-x
+Trace-X library
